@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+groq
+langchain
+langchain-groq
+supabase
+pydantic
+pydantic-settings
+python-multipart
+python-dotenv
+httpx
+requests
+numpy
+pandas
+Pillow        
+pytesseract

@@ -1,0 +1,4 @@
+project_id = "knhwgysrtwjdjegddkyx"
+
+[functions.process-prescription]
+verify_jwt = false

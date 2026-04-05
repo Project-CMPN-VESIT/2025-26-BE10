@@ -1,0 +1,77 @@
+{
+  "app_name": "Oral Sure",
+  "check_dental_health_title": "Check your Dental Health",
+  "quick_self_check_subtitle": "A quick self-check for your teeth and oral cavity.",
+  "check_my_teeth": "Check my Teeth",
+  "check_teeth_description": "Check for cavities, broken teeth and discoloration.",
+  "check_oral_cavity": "Check my Oral Cavity (Tongue, Lips & Gums)",
+  "check_oral_cavity_description": "Check for ulcers, swelling, bleeding gums and sores.",
+  
+  "select_language": "Select Language",
+  "login_tab": "Login",
+  "signup_tab": "Sign up",
+  "sign_up_header": "Sign up",
+  "login_header": "Login",
+  
+  "aadhaar_placeholder": "Confirm your aadhaar",
+  "email_placeholder": "demo@email.com",
+  "phone_placeholder": "+91 000-0000-000",
+  "gender_placeholder": "enter your gender",
+  "age_placeholder": "enter your age",
+  "password_placeholder": "enter your password",
+  "confirm_password_placeholder": "Confirm password",
+
+  "get_otp": "GET OTP",
+  "create_account": "Create Account",
+  "already_have_account": "Already have an Account!",
+  "login_link": "Login",
+  "dont_have_account": "Don't have an Account!",
+  "signup_link": "Sign up",
+  "enter_otp": "Enter OTP",
+  "enter_otp_placeholder": "Confirm your OTP",
+  "remember_me": "Remember Me",
+  "forgot_password": "Forgot Password?",
+  
+  "error": "Error",
+  "success": "Success",
+  "otp_sent": "OTP Sent",
+  "login_success": "Login Success",
+
+   "start_scan": "Start Scan",
+  "scan_setup_header": "Get Ready to Scan",
+  "scan_setup_instruction_1": "1. Ensure good lighting for a clear picture.",
+  "scan_setup_instruction_2": "2. Align your teeth/mouth within the guidelines.",
+  "scan_setup_instruction_3": "3. Hold the phone steady for 3 seconds.",
+
+   "loading_diagnosis": "Analyzing Data...",
+  "loading_subtitle": "Please wait while our AI model generates your oral health report.",
+  "view_report_button": "View My Report",
+  "report_header": "Oral Health Report",
+
+  "remedies_header": "Home Remedies",
+  "back_to_report": "Back to Report",
+  "remedy_saltwater_rinse": "Saltwater Rinse",
+  "remedy_baking_soda": "Baking Soda Rinse",
+  "remedy_honey": "Honey Application",
+  "remedy_coconut_oil": "Coconut Oil",
+  "remedy_aloe_vera": "Aloe Vera Gel",
+  "remedy_avoid_spicy": "Avoid Spicy/Acidic Foods",
+  "remedy_stay_hydrated": "Stay Hydrated",
+  "remedy_cold_compress": "Cold Compress",
+
+  "dental_care_header": "Dental Care",
+  "why_dental_care": "Why Dental Care is Important",
+  "dental_care_quote": "Good dental hygiene prevents more than just toothaches – it protects your overall health.",
+  "brushing_flossing_title": "Brushing & Flossing",
+  "healthy_diet_title": "Healthy Diet & Exercise",
+  "regular_visits_title": "Regular Dental Visits",
+
+  "about_us_header": "About Us",
+  "about_us_body_1": "Oral Sure is a simple and smart mobile app that helps you check your oral health anytime, anywhere. By taking a quick selfie of your mouth and answering a few short questions, you can get a fast and easy assessment of your oral health condition.",
+  "about_us_body_2": "The app provides clear results, highlights possible risks, and gives you helpful recommendations on whether you should visit a dentist. Developed in collaboration with the Government Dental College, Oral Sure aims to raise awareness, encourage early detection of dental issues, and guide people toward better oral health and timely professional care.",
+
+  "sign_out": "Sign Out",  
+  
+  "clinic_locator_header": "Dentists Nearby",
+  "enter_location_placeholder": "Thane"
+}
